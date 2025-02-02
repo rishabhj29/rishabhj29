@@ -1,4 +1,4 @@
-# **Hi there! I'm Rishabh 🚀**  
+# **Hi there! I'm Rishabh 👋🏻**  
 
 A **data-driven problem solver** passionate about **business analytics, AI, and machine learning**. I turn complex data into **actionable insights** that drive **real-world impact** in **healthcare, finance, and consumer analytics**. Always eager to **explore AI-driven decision-making, predictive modeling, and innovative data solutions**.  
 
